@@ -1,0 +1,12 @@
+This is a simple game intended to demonstrate the basic functionality of this PYPGP.
+=
+[Continue]
+-
+L_atrium
+-
+key
+F
+key
+S
+-
+None

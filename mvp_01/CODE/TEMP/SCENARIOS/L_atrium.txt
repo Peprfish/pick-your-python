@@ -1,0 +1,33 @@
+You are in the atrium.
+You see two doors:
+
+The first door leads to some sort of storage area.
+
+The second door is locked. If you had some kind of key with you, you might able to open it.
+=
+Go through the first door.
+-
+L_storage
+-
+None
+-
+None
+=
+Try opening the second door without a key.
+-
+E_nokey
+-
+None
+-
+key
+F
+=
+Try using the key you found on the second door.
+-
+L_secretroom
+-
+key
+H
+-
+key
+T

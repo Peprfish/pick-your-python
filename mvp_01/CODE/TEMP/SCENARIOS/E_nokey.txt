@@ -1,0 +1,10 @@
+You try to barge the door open.
+It doesn't work.
+=
+Give up trying for now.
+-
+L_atrium
+-
+None
+-
+None

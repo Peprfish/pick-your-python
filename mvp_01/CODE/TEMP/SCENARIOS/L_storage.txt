@@ -1,0 +1,20 @@
+You are in the storage room.
+There's nothing particularly interesting in here. It's all just cleaning equipment.
+=
+Return to the atrium.
+-
+L_atrium
+-
+None
+-
+None
+=
+Pick up the key lying in the corner.
+-
+L_storage
+-
+key
+T
+-
+key
+F
